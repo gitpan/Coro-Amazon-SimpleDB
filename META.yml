@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Coro-Amazon-SimpleDB
-version:            0.01
+version:            0.02
 abstract:           Use C<Amazon::SimpleDB::Client> to do asynchronous requests
 author:
     - Dave Trischuk <dtrischuk@cpan.org>
